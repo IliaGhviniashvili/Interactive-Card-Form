@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Interactive-Card-Form/static/css/main.1cffc40b.css",
+    "main.js": "/Interactive-Card-Form/static/js/main.34379049.js",
+    "static/media/bg-main-desktop.png": "/Interactive-Card-Form/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/Interactive-Card-Form/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/Interactive-Card-Form/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/Interactive-Card-Form/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/Interactive-Card-Form/index.html",
+    "static/media/icon-complete.svg": "/Interactive-Card-Form/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/card-logo.svg": "/Interactive-Card-Form/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.1cffc40b.css.map": "/Interactive-Card-Form/static/css/main.1cffc40b.css.map",
+    "main.34379049.js.map": "/Interactive-Card-Form/static/js/main.34379049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cffc40b.css",
+    "static/js/main.34379049.js"
+  ]
+}
